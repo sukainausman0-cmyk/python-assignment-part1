@@ -62,7 +62,7 @@ python part1_grade_tracker.py
 
 ---
 
-## ✅ Status
+##  Status
 
 ✔ Completed
 ✔ All 4 tasks implemented
